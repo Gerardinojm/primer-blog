@@ -1,0 +1,18 @@
+/* Selector por etiquetas */
+header {
+    color:blueviolet;
+}
+
+article h2 {
+    color: blue;
+}
+
+/* Selector  por clase */
+.subtitle {
+    color: red;
+}
+
+/* Selector por ID */
+#footer {
+    color: purple;
+}
